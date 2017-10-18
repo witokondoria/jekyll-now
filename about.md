@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Been working almost 20 years, my passion is about software, quality and automation. This is covered nowadays under the DevOps umbrella, so I must be one.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Use any of the social links below!
