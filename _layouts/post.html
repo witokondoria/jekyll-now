@@ -8,9 +8,12 @@ layout: default
   <div class="entry">
     {{ content }}
   </div>
-
+  <br/>
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
+    {% for tag in page.tags %}
+    <a href='/tags/#{{ tag }}'><span class="tag-mark">{{ tag }}</span></a>
+    {% endfor %}
   </div>
 
   {% include disqus.html %}

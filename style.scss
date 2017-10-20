@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 800px;
   padding: 0 10px;
   width: 100%;
 }
@@ -287,6 +287,15 @@ footer {
     margin: 0 auto;
     display: block;
 }
+
+.tag-mark {
+    font-size: 60%;
+}
+
+.tag-mark-bigger {
+    font-size: 80%;
+}
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
