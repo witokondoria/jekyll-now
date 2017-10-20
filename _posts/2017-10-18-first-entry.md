@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 
 For several years, this url has served one of the greatests xkcd work, so lets keep it live:
 
-![_config.yml](http://imgs.xkcd.com/comics/compiling.png){: .center-image }
+![_config.yml](https://imgs.xkcd.com/comics/compiling.png){: .center-image }
 
 <!--more-->
 
