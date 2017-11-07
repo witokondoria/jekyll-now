@@ -59,4 +59,4 @@ This project is defined by:
 
 ## The END
 
-Yes. This is it!
+Yes. This is it! (as of today)
